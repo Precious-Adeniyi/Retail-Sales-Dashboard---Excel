@@ -25,4 +25,6 @@ Analysis of retail sales transaction data covering products across
 | `SalesDashboard.xlsx` | Main dashboard with raw data and analysis |
 
 ## Preview
-![Dashboard](Sales_Dashboard.png)# Retail-Sales-Dashboard---Excel
+![Dashboard](Sales_Dashboard.png)
+
+# Retail-Sales-Dashboard---Excel
